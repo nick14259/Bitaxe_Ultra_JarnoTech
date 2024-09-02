@@ -1,2 +1,5 @@
-# Bitaxe_Ultra_JarnoTech
- Repo for files related to JarnoTech's Bitaxe Ultra.
+# JarnoTech Bitaxe Ultra
+
+ STL Files for the case are found under \3D Files.
+
+ The Setup Guide can be found in the main directory.
